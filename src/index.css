@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+  margin: 30px;
+  border-color: #222;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.container--boxes{
+  display: flex;
+  flex-wrap: wrap;
+}
